@@ -9,6 +9,9 @@ __Learning Goals__
 
 - Collect metrics (execution time, recursion depth, number of comparisons/allocations) and compare theoretical results with practical measurements.
 
+__Graphic__
+![Graph] (images/Graph.png)
+
 __Algorithms__
 1. __MergeSort (D&C, Master Case 2)__
 
